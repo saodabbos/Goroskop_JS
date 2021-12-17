@@ -1,0 +1,16 @@
+
+body {
+    margin: 0;
+    padding: 0;
+}
+    #parent{
+        display: block;
+        margin: 0 auto;
+        width: 600px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    #inp{
+        width: 75%;
+	margin-top: 10px;
+	padding: 10px;
+    }
